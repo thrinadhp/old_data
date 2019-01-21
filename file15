@@ -1,0 +1,14 @@
+total 40
+drwxr-xr-x 5 ubuntu ubuntu 4096 Sep  1 13:06 .
+drwxr-xr-x 3 root   root   4096 Sep  1 11:45 ..
+drwxr-xr-x 3 ubuntu ubuntu 4096 Sep  1 12:34 .ansible
+-rw------- 1 ubuntu ubuntu   75 Sep  1 13:00 .bash_history
+-rw-r--r-- 1 ubuntu ubuntu  220 Aug 31  2015 .bash_logout
+-rw-r--r-- 1 ubuntu ubuntu 3771 Aug 31  2015 .bashrc
+drwx------ 2 ubuntu ubuntu 4096 Sep  1 12:03 .cache
+-rw-rw-r-- 1 ubuntu ubuntu    0 Sep  1 12:58 file123
+-rw-rw-r-- 1 ubuntu ubuntu    0 Sep  1 13:06 file15
+-rw-r--r-- 1 ubuntu ubuntu  655 May 16  2017 .profile
+drwx------ 2 ubuntu ubuntu 4096 Sep  1 11:45 .ssh
+-rw-r--r-- 1 ubuntu ubuntu    0 Sep  1 12:04 .sudo_as_admin_successful
+-rw------- 1 root   root    823 Sep  1 12:46 .viminfo

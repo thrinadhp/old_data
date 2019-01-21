@@ -1,0 +1,9 @@
+import subprocess
+subprocess.call('docker images | cut -d " " -f 1 >file1',shell=True) 
+ids=open('/home/ubuntu/file1','r').readlines()
+i=1
+while i<len(ids):
+     image=ids[i]
+     subprocess.call('docker rmi -f %s'%image,shell=True)
+     i=i+1
+
